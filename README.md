@@ -1,6 +1,6 @@
 # Thaiecia Williams' Portfolio 
 
-Welcome to my personal portfolio website! This project showcases who I am, my academic background, and some of the work I’ve done so far. It's built with passion, creativity, and my growing skills in web development.
+Welcome to my personal portfolio website. This project showcases who I am, my academic background, and some of the work I’ve done so far. It's built with passion, creativity, and my growing skills in web development.
 
 ## Table of Contents
 - [Project Features](#project-features)
@@ -25,8 +25,8 @@ Welcome to my personal portfolio website! This project showcases who I am, my ac
 
 ## How to Run the Project
 
-2. **Open the `index.html` file**:
-- Open the `index.html` file in your preferred web browser to view the portfolio.
+2. **Open the `home.html` file**:
+- Open the `home.html` file in your preferred web browser to view the portfolio.
 
 3. **Optional: Customize the Portfolio**:
 - You can update the content in the HTML files (e.g., changing text, images, and links) to personalize the portfolio for your own use.
@@ -35,5 +35,5 @@ Welcome to my personal portfolio website! This project showcases who I am, my ac
 - The project uses a `style.css` file for styling. Feel free to modify the styles as needed to match your personal preferences or brand.
 
 5. **JavaScript**:
-- The `script.js` file contains the form validation logic and other interactions. You can edit it to extend the functionality or add new features.
+- This project uses internal java script that contains the form validation logic and other interactions. You can edit it to extend the functionality or add new features.
 
