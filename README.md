@@ -3,12 +3,9 @@
 Welcome to my personal portfolio website! This project showcases who I am, my academic background, and some of the work I’ve done so far. It's built with passion, creativity, and my growing skills in web development.
 
 ## Table of Contents
-- [Introduction](#introduction)
 - [Project Features](#project-features)
 - [Technologies Used](#technologies-used)
-- [File Structure](#file-structure)
 - [How to Run the Project](#how-to-run-the-project)
-- [License](#license)
 
 ## Project Features
 
