@@ -24,7 +24,7 @@ Welcome to my personal portfolio website. This project showcases who I am, my ac
 - **AOS (Animate On Scroll)** – Smooth animations as content enters the viewport.
 
 ## How to Run the Project
-1. ** Download the folder
+1. ** Download the folder**:
 - Unzip the compressed folder.
 
 2. **Open the `home.html` file**:
