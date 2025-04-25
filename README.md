@@ -1,15 +1,24 @@
-# Thaiecia Williams' Portfolio 🌟
+# Thaiecia Williams' Portfolio 
 
 Welcome to my personal portfolio website! This project showcases who I am, my academic background, and some of the work I’ve done so far. It's built with passion, creativity, and my growing skills in web development.
 
-## 📌 Features
+## Table of Contents
+- [Introduction](#introduction)
+- [Project Features](#project-features)
+- [Technologies Used](#technologies-used)
+- [File Structure](#file-structure)
+- [How to Run the Project](#how-to-run-the-project)
+- [License](#license)
 
-- **Home Page** – A welcoming introduction that highlights who I am.
-- **About Page** – My academic history including primary, high school, and college education.
-- **Portfolio Page** – Displays my skills and previous work in technology and web development.
-- **Contact Page** – A contact form for users to reach me and links to my social media.
+## Project Features
 
-## 💻 Technologies Used
+- **Home Page**: Introduction with a typewriter effect, profile image, and links to other sections of the website.
+- **About Page**: A brief overview of my academic history.
+- **Portfolio Page**: Showcases my web development projects and skills.
+- **Contact Page**: Includes a contact form for direct communication, along with my email, phone number, and social media links.
+- **Animations**: Smooth scroll-based animations using the AOS library for a dynamic user experience.
+
+## Technologies Used
 
 - **HTML5** – Structure of the website.
 - **CSS3** – Styling and layout.
@@ -17,12 +26,17 @@ Welcome to my personal portfolio website! This project showcases who I am, my ac
 - **Font Awesome** – Beautiful icons for social links and form labels.
 - **AOS (Animate On Scroll)** – Smooth animations as content enters the viewport.
 
-## 🔍 How to View
+## How to Run the Project
 
-1. Download or clone the project files to your computer.
-2. Open the `home.html` file in any web browser to start exploring the website.
-3. Make sure you have internet access to load external libraries like AOS and Font Awesome.
+2. **Open the `index.html` file**:
+- Open the `index.html` file in your preferred web browser to view the portfolio.
 
-## 👩🏽‍💻 About Me
+3. **Optional: Customize the Portfolio**:
+- You can update the content in the HTML files (e.g., changing text, images, and links) to personalize the portfolio for your own use.
 
-Hi! I'm **Thaiecia Williams**, a 17-year-old college student with a strong passion for technology and web development. I created this website to reflect my interests, showcase my skills, and build a foundation for my career in tech. I'm always learning and love turning ideas into digital experiences.
+4. **Styling**:
+- The project uses a `style.css` file for styling. Feel free to modify the styles as needed to match your personal preferences or brand.
+
+5. **JavaScript**:
+- The `script.js` file contains the form validation logic and other interactions. You can edit it to extend the functionality or add new features.
+
